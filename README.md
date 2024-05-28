@@ -1,6 +1,6 @@
 # USDC Bridge
 
-# USDC Bridge is a web application that allows users to bridge USDC tokens from the Noble blockchain to the Ethereum blockchain. This application facilitates the burning of USDC tokens on Noble and the minting of USDC tokens on Ethereum, ensuring a seamless transition between the two blockchains.
+USDC Bridge is a web application that allows users to bridge USDC tokens from the Noble blockchain to the Ethereum blockchain. This application facilitates the burning of USDC tokens on Noble and the minting of USDC tokens on Ethereum, ensuring a seamless transition between the two blockchains.
 
 ## Table of Contents
 
